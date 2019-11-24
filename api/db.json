@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "First test stream",
+      "description": "Minh's first test stream",
+      "id": 1
+    },
+    {
+      "title": "Second Test Stream",
+      "description": "second second second",
+      "id": 2
+    },
+    {
+      "title": "Testing redirecting after creating a stream",
+      "description": "CHANGED USING PATCH REQUEST INSTEAD OF PUT",
+      "id": 4
+    },
+    {
+      "title": "I am streaming component reuse",
+      "description": "This refactor stream has been editted!",
+      "id": 5
+    }
+  ]
+}
